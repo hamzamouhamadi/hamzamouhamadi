@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React.js , Javascript ,Express.js**
 
-- 📫 How to reach me **mouhamadi.hamza33@gmail.com**
+- 📫 How to reach me **hamzamouhamadi91@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/hamza-mouhamadi/](https://www.linkedin.com/in/hamza-mouhamadi/)
 
